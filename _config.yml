@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "收集資料的K"
-  avatar           : "https://www.pexels.com/photo/focused-blogger-working-on-project-at-home-6347919/"
+  avatar           : #"https://www.pexels.com/photo/focused-blogger-working-on-project-at-home-6347919/"
   bio              : ""
   location         : "Somewhere"
   email            :
