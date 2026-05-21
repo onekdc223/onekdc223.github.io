@@ -10,6 +10,7 @@ tags:
 layout: single
 author_profile: true
 toc: true
+render_with_liquid: false
 excerpt: "1962年，卡爾霍恩的白鼠實驗揭示：過度擁擠不只影響生理，更會系統性地摧毀社會行為。本文深入探討「行為水槽」現象、雌雄崩潰路徑差異，以及這項研究對都市規劃的深遠影響與爭議。"
 ---
 
