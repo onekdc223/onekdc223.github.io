@@ -197,6 +197,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - google22bf810933166455.html
 keep_files:
   - .git
   - .svn
