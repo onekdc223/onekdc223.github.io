@@ -13,6 +13,8 @@ layout: single
 author_profile: true
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/2026-05-23-abdominal-pump-brain-cleaning-integrated.png
 excerpt: "賓州州立大學2026年研究發現，腹肌收縮會透過椎靜脈叢對大腦施加液壓，使大腦在顱骨內輕微晃動，進而驅動腦脊髓液循環，可能是運動保護大腦健康的關鍵物理機制。"
 ---
 
