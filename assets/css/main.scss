@@ -8,4 +8,5 @@
 $doc-font-size: 20; // 預設是 16，調大到 18 或 20
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+//@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/minimal-mistakes";
