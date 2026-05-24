@@ -14,11 +14,11 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/2026-05-22-ai-emergence-world-social-experiment.jpg
+  teaser: /assets/images/2026-05-22-ai-emergence-world-social-experiment.png
 excerpt: "Emergence AI 把四家頂尖 AI 丟進虛擬社會，給它們記憶、職業、生存壓力，還有縱火和偷竊的工具。結果揭示了一件令人不安的事：個體的善良，在錯誤的系統裡守不住。安全，是生態系的屬性，不是個體的美德。"
 ---
 
-![AI 社會實驗：當道德底線遇上混亂生態](/assets/images/2026-05-22-ai-emergence-world-social-experiment.jpg)
+![AI 社會實驗：當道德底線遇上混亂生態](/assets/images/2026-05-22-ai-emergence-world-social-experiment.png)
 
 ---
 
