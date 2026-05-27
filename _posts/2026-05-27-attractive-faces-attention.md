@@ -14,13 +14,13 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/2026-05-27-attractive-faces-attention.jpg
+  teaser: /assets/images/2026-05-27-attractive-faces-attention.png
 excerpt: "美貌能指揮你的眼球，卻無法劫持你心底那台悄悄運轉的雷達。一項 2026 年眼動追蹤實驗，首度清楚拆解外顯與內隱兩套注意力系統對臉部吸引力的截然不同反應。"
 ---
 
 
 
-![你的眼睛會說謊：為什麼帥哥美女吸引你的目光，卻騙不過你的潛意識？](/assets/images/2026-05-27-attractive-faces-attention.jpg)
+![你的眼睛會說謊：為什麼帥哥美女吸引你的目光，卻騙不過你的潛意識？](/assets/images/2026-05-27-attractive-faces-attention.png)
 
 
 
