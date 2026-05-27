@@ -14,13 +14,13 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/2026-05-27-narcissism-religion-god-image.jpg
+  teaser: /assets/images/2026-05-27-narcissism-religion-god-image.png
 excerpt: "自戀者不是不信神，而是用一種非常特殊的方式信神——把上帝想成憤怒的懲罰者，同時相信這個懲罰者欠了他們特別的恩惠。華沙大學的三階段研究，首度以自戀四因素模型拆解這個矛盾邏輯。"
 ---
 
 
 
-![自戀者的神：懲罰者、債主，還是私人提款機？](/assets/images/2026-05-27-narcissism-religion-god-image.jpg)
+![自戀者的神：懲罰者、債主，還是私人提款機？](/assets/images/2026-05-27-narcissism-religion-god-image.png)
 
 
 
