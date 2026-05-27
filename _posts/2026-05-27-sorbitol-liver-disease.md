@@ -15,13 +15,13 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/2026-05-27-sorbitol-liver-disease.jpg
+  teaser: /assets/images/2026-05-27-sorbitol-liver-disease.png
 excerpt: "廣泛用於無糖口香糖與糖尿病友善食品的山梨糖醇，在腸道菌不足時會於肝臟轉化為果糖衍生物，觸發脂肪肝病理機制。「無糖」的承諾，或許從來就不是真的。"
 ---
 
 
 
-![「無糖」不等於「無害」：山梨糖醇、腸道菌與脂肪肝的隱藏連線](/assets/images/2026-05-27-sorbitol-liver-disease.jpg)
+![「無糖」不等於「無害」：山梨糖醇、腸道菌與脂肪肝的隱藏連線](/assets/images/2026-05-27-sorbitol-liver-disease.png)
 
 
 
