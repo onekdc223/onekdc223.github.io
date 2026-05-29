@@ -1,11 +1,50 @@
-{% assign locale = include.locale | default: site.locale %}
-{% assign lang = locale | slice: 0,2 | default: "en" %}
-{% case lang %}
-{% when "gr" %}
-  {% assign lang = "gr" %}
-{% else %}
-  {% assign lang = "en" %}
-{% endcase %}
-<script src="{{ '/assets/js/lunr/lunr.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr/lunr-store.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr/lunr-' | append: lang | append: '.js' | relative_url }}"></script>
+<!-- 載入主題核心搜尋基礎腳本 -->
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+<!-- 載入中文斷詞元件 (請確保這兩個檔案已放進 assets/js/) -->
+<script src="{{ '/assets/js/lunr.stemmer.support.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/lunr.zh.js' | relative_url }}"></script>
+
+<script>
+  var idx = lunr(function () {
+    // 注入中文斷詞支援
+    this.use(lunr.zh);
+
+    this.field('title')
+    this.field('excerpt')
+    this.field('categories')
+    this.field('tags')
+    this.ref('id')
+
+    this.pipeline.remove(lunr.trimmer)
+
+    for (var key in window.store) {
+      this.add({
+        id: key,
+        title: window.store[key].title,
+        excerpt: window.store[key].excerpt,
+        categories: window.store[key].categories,
+        tags: window.store[key].tags
+      })
+    }
+  });
+
+  $(document).ready(function() {
+    $('input#search').on('keyup', function () {
+      var resultdiv = $('#results');
+      var query = $(this).val();
+      var result = idx.search(query);
+      resultdiv.empty();
+      resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
+      for (var item in result) {
+        var ref = result[item].ref;
+        var searchitem =
+          '<article class="entry">' +
+            '<h3 class="entry__title"><a href="'+window.store[ref].url+'">'+window.store[ref].title+'</a></h3>' +
+            '<div class="entry__content">'+window.store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</div>' +
+          '</article>';
+        resultdiv.append(searchitem);
+      }
+    });
+  });
+</script>
