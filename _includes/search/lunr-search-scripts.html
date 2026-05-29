@@ -1,14 +1,25 @@
+<!-- 載入主題基礎腳本 -->
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+<!-- 載入你已上傳的 Simple-Jekyll-Search -->
 <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 
 <script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search'),
-    resultsContainer: document.getElementById('results'),
-    json: "{{ '/assets/js/lunr/lunr-store.js' | relative_url }}", // 直接沿用 Minimal Mistakes 生成的 JSON 資料庫
-    searchResultTemplate: '<article class="entry"><h3 class="entry__title"><a href="{url}">{title}</a></h3><div class="entry__content">{excerpt}</div></article>',
-    noResultsText: '<p class="results__found">0 {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>',
-    limit: 10,
-    fuzzy: true // 開啟模糊比對，適合中文
+  $(document).ready(function() {
+    // 取得新版 Minimal Mistakes 的輸入框與結果容器
+    var searchInput = document.getElementById('search');
+    var resultsContainer = document.querySelector('.search-content__results');
+
+    if (searchInput && resultsContainer) {
+      SimpleJekyllSearch({
+        searchInput: searchInput,
+        resultsContainer: resultsContainer,
+        json: "{{ '/search.json' | relative_url }}",
+        searchResultTemplate: '<article class="entry"><h3 class="entry__title"><a href="{url}">{title}</a></h3><p class="entry__date"><i class="far fa-calendar-alt" aria-hidden="hidden"></i> {date}</p><div class="entry__content">{excerpt}</div></article>',
+        noResultsText: '<p class="results__found">0 {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>',
+        limit: 10,
+        fuzzy: true
+      });
+    }
   });
 </script>
