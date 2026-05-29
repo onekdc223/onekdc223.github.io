@@ -1,68 +1,14 @@
-<!-- 載入核心與中文斷詞元件 -->
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr.stemmer.support.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/lunr.zh.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 
 <script>
-  var idx = lunr(function () {
-    // 使用中文斷詞
-    this.use(lunr.zh);
-    
-    this.field('title');
-    this.field('excerpt');
-    this.field('categories');
-    this.field('tags');
-    this.ref('id');
-    
-    // 讓中文不套用英文的修剪與詞幹提取器，避免中文被當成英文字尾切掉
-    this.pipeline.remove(lunr.stemmer);
-
-    for (var key in window.store) {
-      this.add({
-        id: key,
-        title: window.store[key].title,
-        excerpt: window.store[key].excerpt,
-        categories: window.store[key].categories,
-        tags: window.store[key].tags
-      });
-    }
-  });
-
-  $(document).ready(function() {
-    $('input#search').on('keyup', function () {
-      var resultdiv = $('#results');
-      var query = $(this).val().trim();
-      
-      // 1. 防呆：如果輸入為空，直接清空並返回，不執行搜尋
-      if (query.length === 0) {
-        resultdiv.empty();
-        return;
-      }
-
-      // 2. 執行搜尋
-      var result = idx.search(query);
-      resultdiv.empty();
-
-      // 3. 解決「亂搜全列出」的核心：
-      // 如果輸入了中文字，但 Lunr 判定無效回傳了全部文章（結果長度等於總文章數），
-      // 或者是根本沒搜到，皆視為無匹配結果。
-      var totalPosts = Object.keys(window.store).length;
-      if (result.length === 0 || result.length === totalPosts) {
-        resultdiv.prepend('<p class="results__found">0 {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
-        return;
-      }
-
-      // 4. 正常渲染搜尋結果
-      resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
-      for (var item in result) {
-        var ref = result[item].ref;
-        var searchitem =
-          '<article class="entry">' +
-            '<h3 class="entry__title"><a href="'+window.store[ref].url+'">'+window.store[ref].title+'</a></h3>' +
-            '<div class="entry__content">'+window.store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</div>' +
-          '</article>';
-        resultdiv.append(searchitem);
-      }
-    });
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search'),
+    resultsContainer: document.getElementById('results'),
+    json: "{{ '/assets/js/lunr/lunr-store.js' | relative_url }}", // 直接沿用 Minimal Mistakes 生成的 JSON 資料庫
+    searchResultTemplate: '<article class="entry"><h3 class="entry__title"><a href="{url}">{title}</a></h3><div class="entry__content">{excerpt}</div></article>',
+    noResultsText: '<p class="results__found">0 {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>',
+    limit: 10,
+    fuzzy: true // 開啟模糊比對，適合中文
   });
 </script>
