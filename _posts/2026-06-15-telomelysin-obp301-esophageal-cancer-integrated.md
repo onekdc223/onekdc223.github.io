@@ -15,7 +15,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/2026-06-15-telomelysin-obp301-esophageal-cancer.png
+  teaser: /assets/images/2026-06-15-telomelysin-obp301-esophageal-cancer-integrated.png
 excerpt: "日本岡山大學研發的腫瘍溶解病毒「テロメライシン」，能精準鎖定端粒酶活躍的食道癌細胞並使其裂解，更可增強放射治療效果並喚醒免疫系統，2026年已通過厚勞省審議。"
 ---
 
