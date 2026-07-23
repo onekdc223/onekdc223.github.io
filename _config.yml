@@ -234,7 +234,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Taipei # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -328,6 +328,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
+      date_format: "%Y-%m-%d %H:%M:%S"
       comments: # true
       share: true
       related: true
