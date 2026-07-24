@@ -33,7 +33,7 @@ layout: default
         <header>
           {% if page.title -%}
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+            <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a><button type="button" class="copy-permalink" data-copy-url="{{ page.url | absolute_url }}" title="複製連結" aria-label="複製連結"><i class="fas fa-link" aria-hidden="true"></i><i class="fas fa-check" aria-hidden="true"></i></button>
           </h1>
           {%- endif %}
           {% include page__meta.html locale=locale %}
