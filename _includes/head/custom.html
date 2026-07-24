@@ -2,4 +2,82 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- copy-permalink button: copies the post URL to the clipboard -->
+<style>
+  .copy-permalink {
+    display: inline-block;
+    margin-left: 0.35em;
+    padding: 0;
+    border: 0;
+    background: none;
+    color: inherit;
+    opacity: 0.55;
+    font-size: 0.7em;
+    line-height: 1;
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    transition: opacity 0.15s ease, color 0.15s ease;
+  }
+  .copy-permalink:hover,
+  .copy-permalink:focus-visible { opacity: 1; }
+  .copy-permalink .fa-check { display: none; }
+  .copy-permalink.is-copied { opacity: 1; color: #2ea44f; }
+  .copy-permalink.is-copied .fa-link { display: none; }
+  .copy-permalink.is-copied .fa-check { display: inline-block; }
+  .copy-permalink.is-copied::after {
+    content: "已複製";
+    position: absolute;
+    left: 50%;
+    bottom: calc(100% + 6px);
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: rgba(0, 0, 0, 0.85);
+    color: #fff;
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: 0.35em 0.55em;
+    border-radius: 4px;
+    pointer-events: none;
+  }
+</style>
+<script>
+  (function () {
+    function copyText(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+      }
+      return new Promise(function (resolve, reject) {
+        var ta = document.createElement("textarea");
+        ta.value = text;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "absolute";
+        ta.style.left = "-9999px";
+        document.body.appendChild(ta);
+        ta.select();
+        try {
+          document.execCommand("copy") ? resolve() : reject();
+        } catch (e) {
+          reject(e);
+        }
+        document.body.removeChild(ta);
+      });
+    }
+
+    document.addEventListener("click", function (event) {
+      var btn = event.target.closest(".copy-permalink");
+      if (!btn) return;
+      event.preventDefault();
+      var url = btn.getAttribute("data-copy-url");
+      if (!url) return;
+      copyText(url).then(function () {
+        btn.classList.add("is-copied");
+        window.setTimeout(function () {
+          btn.classList.remove("is-copied");
+        }, 1500);
+      });
+    });
+  })();
+</script>
+
 <!-- end custom head snippets -->
