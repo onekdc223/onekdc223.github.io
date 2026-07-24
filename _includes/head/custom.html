@@ -4,19 +4,30 @@
 
 <!-- copy-permalink button: copies the post URL to the clipboard -->
 <style>
+  /* lay the title out as a row so the copy icon can sit at the far right */
+  .page__title,
+  .archive__item-title {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+  }
+  /* let the "已複製" tooltip escape the listing title's clipping */
+  .archive__item-title { overflow: visible; }
+
   .copy-permalink {
-    display: inline-block;
-    margin-left: 0.35em;
-    padding: 0;
+    flex: 0 0 auto;
+    margin-left: auto;      /* push to the far right of the title row */
+    align-self: flex-start;
+    padding: 0.1em 0.2em;
     border: 0;
     background: none;
     color: inherit;
     opacity: 0.55;
-    font-size: 0.7em;
+    font-size: 0.8em;
     line-height: 1;
     cursor: pointer;
-    vertical-align: middle;
     position: relative;
+    z-index: 2;             /* stack above the title's full-area click overlay */
     transition: opacity 0.15s ease, color 0.15s ease;
   }
   .copy-permalink:hover,
@@ -28,9 +39,8 @@
   .copy-permalink.is-copied::after {
     content: "已複製";
     position: absolute;
-    left: 50%;
+    right: 0;
     bottom: calc(100% + 6px);
-    transform: translateX(-50%);
     white-space: nowrap;
     background: rgba(0, 0, 0, 0.85);
     color: #fff;
