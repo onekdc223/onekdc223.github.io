@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "關於"
-    url: https://onekdc223.github.io/
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
