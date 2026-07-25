@@ -33,6 +33,14 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Index with Pagefind
+        run: npx -y pagefind@1 --site _site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

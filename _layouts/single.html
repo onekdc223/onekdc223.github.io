@@ -40,9 +40,9 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content e-content" itemprop="text">
+      <section class="page__content e-content" itemprop="text"{% unless page.exclude_from_search %} data-pagefind-body{% endunless %}>
         {% if page.toc %}
-          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}" data-pagefind-ignore>
             <nav class="toc" aria-label="Table of contents">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
