@@ -10,7 +10,6 @@ tags:
   - 軟體工程
   - 企業導入
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

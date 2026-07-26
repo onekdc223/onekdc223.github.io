@@ -10,7 +10,6 @@ tags:
   - OpenAI
   - 科學研究方法
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

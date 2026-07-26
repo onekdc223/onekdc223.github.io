@@ -11,7 +11,6 @@ tags:
   - 正畸學
   - 社會心理學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

@@ -11,7 +11,6 @@ tags:
   - 睡眠
   - 壓力
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

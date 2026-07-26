@@ -10,7 +10,6 @@ tags:
   - 目標漂移
   - 自主代理人
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

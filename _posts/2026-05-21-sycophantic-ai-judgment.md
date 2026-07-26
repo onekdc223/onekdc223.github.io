@@ -10,7 +10,6 @@ tags:
   - 人際關係
   - Science 期刊
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

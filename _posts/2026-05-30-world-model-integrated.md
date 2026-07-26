@@ -11,7 +11,6 @@ tags:
   - Google DeepMind
   - 機器學習
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

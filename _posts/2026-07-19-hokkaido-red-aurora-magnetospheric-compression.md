@@ -11,7 +11,6 @@ tags:
   - 公民科學
   - 北海道
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

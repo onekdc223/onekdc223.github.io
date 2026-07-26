@@ -10,7 +10,6 @@ tags:
   - 神經科學
   - 因果推論
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

@@ -9,7 +9,6 @@ tags:
   - 量子測量
   - 熱力學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

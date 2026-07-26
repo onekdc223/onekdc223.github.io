@@ -13,7 +13,6 @@ tags:
   - 行為神經科學
   - 減重藥物
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

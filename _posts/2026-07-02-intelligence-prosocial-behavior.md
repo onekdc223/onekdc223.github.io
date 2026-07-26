@@ -10,7 +10,6 @@ tags:
   - 雙胞胎研究
   - 行為經濟學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

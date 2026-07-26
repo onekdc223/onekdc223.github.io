@@ -10,7 +10,6 @@ tags:
   - 貨幣制度
   - 明治維新
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

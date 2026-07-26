@@ -11,7 +11,6 @@ tags:
   - 黨派極化
   - 假訊息
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

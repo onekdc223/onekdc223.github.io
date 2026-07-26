@@ -10,7 +10,6 @@ tags:
   - 運動與大腦
   - 阿茲海默症
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

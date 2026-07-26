@@ -10,7 +10,6 @@ tags:
   - 羅馬神話
   - 文化起源
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

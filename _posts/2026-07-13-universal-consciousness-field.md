@@ -12,7 +12,6 @@ tags:
   - 整合資訊理論
   - 意識難題
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

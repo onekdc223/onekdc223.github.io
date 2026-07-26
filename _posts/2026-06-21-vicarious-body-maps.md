@@ -9,7 +9,6 @@ tags:
   - 視覺與觸覺
   - 軀體感覺皮質
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

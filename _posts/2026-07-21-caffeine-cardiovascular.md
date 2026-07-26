@@ -13,7 +13,6 @@ tags:
   - 血壓
   - CYP1A2
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

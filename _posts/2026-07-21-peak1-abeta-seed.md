@@ -9,7 +9,6 @@ tags:
   - Peak1Aβ
   - 神經退化性疾病
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

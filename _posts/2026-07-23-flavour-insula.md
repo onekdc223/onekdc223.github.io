@@ -10,7 +10,6 @@ tags:
   - 風味知覺
   - fMRI
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

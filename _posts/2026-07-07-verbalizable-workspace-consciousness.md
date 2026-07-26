@@ -9,7 +9,6 @@ tags:
   - 可解釋性
   - 全局工作區理論
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:
