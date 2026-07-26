@@ -10,7 +10,6 @@ tags:
   - 副突變
   - 基因體印記
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

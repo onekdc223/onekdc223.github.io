@@ -2,7 +2,7 @@
 title: "關於"
 permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 收集但不沉迷 閱讀才有動力

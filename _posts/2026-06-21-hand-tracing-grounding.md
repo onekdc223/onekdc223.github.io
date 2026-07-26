@@ -9,7 +9,6 @@ tags:
   - 預設模式網路
   - 自我安撫觸覺
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

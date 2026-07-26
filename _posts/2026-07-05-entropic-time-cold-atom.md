@@ -10,7 +10,6 @@ tags:
   - 冷原子
   - 惠勒-德威特方程式
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

@@ -10,7 +10,6 @@ tags:
   - 演化心理學
   - 社會認知
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

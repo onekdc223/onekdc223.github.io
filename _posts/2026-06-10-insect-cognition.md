@@ -16,7 +16,6 @@ tags:
   - 昆蟲認知
   - 行為神經科學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

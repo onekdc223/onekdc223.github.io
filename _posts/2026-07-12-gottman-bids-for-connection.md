@@ -12,7 +12,6 @@ tags:
   - 伴侶關係
   - K と Dg と Liy
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

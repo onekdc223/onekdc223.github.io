@@ -9,7 +9,6 @@ tags:
   - 社群媒體
   - AI中介傳播
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

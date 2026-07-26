@@ -2,8 +2,6 @@
 main:
   - title: "關於"
     url: /about/
-  - title: "搜尋"
-    url: /search/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

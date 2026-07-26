@@ -10,7 +10,6 @@ tags:
   - Emergence World
   - AI 安全
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

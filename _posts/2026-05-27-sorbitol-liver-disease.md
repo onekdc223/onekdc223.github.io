@@ -11,7 +11,6 @@ tags:
   - 代糖
   - 果糖
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

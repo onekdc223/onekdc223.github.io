@@ -10,7 +10,6 @@ tags:
   - 青少年文化
   - 另類運動
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

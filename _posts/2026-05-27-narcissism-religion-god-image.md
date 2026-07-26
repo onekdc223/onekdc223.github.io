@@ -10,7 +10,6 @@ tags:
   - 神明形象
   - 外在宗教動機
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

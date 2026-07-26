@@ -11,7 +11,6 @@ tags:
   - 感知心理學
   - 音樂教育
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

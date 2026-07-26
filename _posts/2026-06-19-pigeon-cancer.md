@@ -10,7 +10,6 @@ tags:
   - 群體智慧
   - 行為科學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

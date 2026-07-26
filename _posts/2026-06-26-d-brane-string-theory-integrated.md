@@ -10,7 +10,6 @@ tags:
   - 量子重力
   - 波爾欽斯基
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

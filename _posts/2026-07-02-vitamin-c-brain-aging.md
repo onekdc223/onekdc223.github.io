@@ -9,7 +9,6 @@ tags:
   - 預設模式網路
   - 神經科學
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

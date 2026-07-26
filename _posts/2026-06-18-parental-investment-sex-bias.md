@@ -10,7 +10,6 @@ tags:
   - Trivers-Willard
   - 教養
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

@@ -11,7 +11,6 @@ tags:
   - 貓
   - 狗
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

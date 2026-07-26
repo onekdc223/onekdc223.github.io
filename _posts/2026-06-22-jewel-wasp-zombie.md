@@ -11,7 +11,6 @@ tags:
   - 動物行為
   - 多巴胺
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:

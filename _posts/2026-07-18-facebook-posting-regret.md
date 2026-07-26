@@ -9,7 +9,6 @@ tags:
   - 隱私
   - 數位文化
 layout: single
-author_profile: true
 toc: true
 toc_sticky: true
 header:
