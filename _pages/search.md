@@ -4,6 +4,7 @@ permalink: /search/
 layout: single
 author_profile: false
 exclude_from_search: true
+sitemap: false
 ---
 
 <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
