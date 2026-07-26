@@ -14,8 +14,10 @@
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if include.type == "grid" and teaser %}
+      {% assign teaser_base = teaser | split: "/" | last | split: "." | first %}
+      {% capture teaser_thumb %}/assets/images/thumbs/{{ teaser_base }}.webp{% endcapture %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <img src="{{ teaser_thumb | relative_url }}" alt="" width="800" height="447" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='{{ teaser | relative_url }}';">
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc p-name" itemprop="headline">
