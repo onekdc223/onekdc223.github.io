@@ -38,6 +38,11 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Generate grid thumbnails
+        run: |
+          npm install --no-save sharp@0.33
+          node scripts/gen-thumbnails.mjs _site/assets/images _site/assets/images/thumbs
+
       - name: Index with Pagefind
         run: npx -y pagefind@1 --site _site
 
