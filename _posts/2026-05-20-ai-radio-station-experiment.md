@@ -257,12 +257,12 @@ Andon Labs 對此持樂觀態度，認為隨著模型能力提升，AI 電臺最
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [Andon FM 實驗官方記錄](/?query=Andon+FM+AI+radio+station+experiment)
-- [AI Agent 目標漂移研究](/?query=goal+drift+language+model+agents+arxiv)
-- [AI Agent 可靠性現況分析](/?query=AI+agent+reliability+benchmark+gap+2025)
-- [廣播產業對 AI 自主運營的評析](/?query=AI+autonomous+radio+broadcasting+human+oversight)
+- [Andon FM 實驗官方記錄](https://www.google.com/search?q=Andon+FM+AI+radio+station+experiment)
+- [AI Agent 目標漂移研究](https://www.google.com/search?q=goal+drift+language+model+agents+arxiv)
+- [AI Agent 可靠性現況分析](https://www.google.com/search?q=AI+agent+reliability+benchmark+gap+2025)
+- [廣播產業對 AI 自主運營的評析](https://www.google.com/search?q=AI+autonomous+radio+broadcasting+human+oversight)
 
 ---
 

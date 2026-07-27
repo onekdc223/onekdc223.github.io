@@ -239,11 +239,11 @@ NCNP 神經研究所神經病理學部長**橋本唯史**表示，希望未來�
 
 ---
 
-## 📚 推薦閱讀
+## 延伸搜尋
 
-- [什麼是類澱粉蛋白 β？](/?query=類澱粉蛋白+Aβ+阿茲海默症)
-- [lecanemab 是什麼藥？怎麼運作？](/?query=lecanemab+阿茲海默症+藥物)
-- [阿茲海默症的早期診斷方法](/?query=阿茲海默症+早期診斷+生物標記)
+- [類澱粉蛋白 Aβ 阿茲海默症](https://www.google.com/search?q=%E9%A1%9E%E6%BE%B1%E7%B2%89%E8%9B%8B%E7%99%BD+A%CE%B2+%E9%98%BF%E8%8C%B2%E6%B5%B7%E9%BB%98%E7%97%87)
+- [lecanemab 阿茲海默症 藥物](https://www.google.com/search?q=lecanemab+%E9%98%BF%E8%8C%B2%E6%B5%B7%E9%BB%98%E7%97%87+%E8%97%A5%E7%89%A9)
+- [阿茲海默症的早期診斷方法](https://www.google.com/search?q=%E9%98%BF%E8%8C%B2%E6%B5%B7%E9%BB%98%E7%97%87+%E6%97%A9%E6%9C%9F%E8%A8%BA%E6%96%B7+%E7%94%9F%E7%89%A9%E6%A8%99%E8%A8%98)
 
 ---
 

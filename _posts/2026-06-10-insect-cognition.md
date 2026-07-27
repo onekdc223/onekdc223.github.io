@@ -276,12 +276,12 @@ NPYLR7 研究最令科學界振奮的，是它為**跨物種腸—腦軸**的演
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [蚊子如何感知氣味：嗅覺神經科學入門](/?query=蚊子嗅覺受體神經科學)
-- [腸—腦軸與 GLP-1：跨物種的飽足機制](/?query=腸腦軸GLP-1飽足荷爾蒙)
-- [表觀遺傳學入門：什麼是 DNA 甲基化？](/?query=表觀遺傳學DNA甲基化入門)
-- [昆蟲聯結學習研究前沿：從蜜蜂到蚊子](/?query=昆蟲聯結學習認知神經科學)
+- [蚊子嗅覺受體神經科學](https://www.google.com/search?q=%E8%9A%8A%E5%AD%90%E5%97%85%E8%A6%BA%E5%8F%97%E9%AB%94%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8)
+- [腸腦軸GLP-1飽足荷爾蒙](https://www.google.com/search?q=%E8%85%B8%E8%85%A6%E8%BB%B8GLP-1%E9%A3%BD%E8%B6%B3%E8%8D%B7%E7%88%BE%E8%92%99)
+- [表觀遺傳學DNA甲基化入門](https://www.google.com/search?q=%E8%A1%A8%E8%A7%80%E9%81%BA%E5%82%B3%E5%AD%B8DNA%E7%94%B2%E5%9F%BA%E5%8C%96%E5%85%A5%E9%96%80)
+- [昆蟲聯結學習認知神經科學](https://www.google.com/search?q=%E6%98%86%E8%9F%B2%E8%81%AF%E7%B5%90%E5%AD%B8%E7%BF%92%E8%AA%8D%E7%9F%A5%E7%A5%9E%E7%B6%93%E7%A7%91%E5%AD%B8)
 
 ---
 

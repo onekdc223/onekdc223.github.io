@@ -245,12 +245,12 @@ CSF 是包繞大腦和脊髓的透明液體，功能包括：機械緩衝保護�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [什麼是膠淋巴系統？大腦如何自我清潔](/?query=glymphatic+system+brain+cleaning)
-- [睡眠與大腦廢棄物清除的關係](/?query=sleep+brain+waste+clearance+CSF)
-- [久坐對大腦健康的影響](/?query=sedentary+behavior+brain+health+neurodegenerative)
-- [阿茲海默症的發病機制：澱粉樣蛋白假說](/?query=Alzheimer+amyloid+hypothesis+mechanism)
+- [膠淋巴系統](https://www.google.com/search?q=glymphatic+system+brain+cleaning)
+- [睡眠與大腦廢棄物清除的關係](https://www.google.com/search?q=sleep+brain+waste+clearance+CSF)
+- [久坐對大腦健康的影響](https://www.google.com/search?q=sedentary+behavior+brain+health+neurodegenerative)
+- [澱粉樣蛋白假說](https://www.google.com/search?q=Alzheimer+amyloid+hypothesis+mechanism)
 
 ---
 

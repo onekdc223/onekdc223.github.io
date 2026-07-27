@@ -246,12 +246,12 @@ D膜的故事，是一則關於「數學如何帶領我們走向意想不到之�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [弦論是什麼？十分鐘入門指南](/?query=弦論入門)
-- [額外維度：物理學家為什麼相信宇宙不只三維？](/?query=額外維度)
-- [引力階層問題：為什麼重力這麼弱？](/?query=引力階層問題)
-- [第二次弦論革命與 M 理論](/?query=M理論)
+- [弦論入門](https://www.google.com/search?q=%E5%BC%A6%E8%AB%96%E5%85%A5%E9%96%80)
+- [額外維度](https://www.google.com/search?q=%E9%A1%8D%E5%A4%96%E7%B6%AD%E5%BA%A6)
+- [引力階層問題](https://www.google.com/search?q=%E5%BC%95%E5%8A%9B%E9%9A%8E%E5%B1%A4%E5%95%8F%E9%A1%8C)
+- [第二次弦論革命與 M 理論](https://www.google.com/search?q=M%E7%90%86%E8%AB%96)
 
 ---
 

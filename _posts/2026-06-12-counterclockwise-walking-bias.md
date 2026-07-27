@@ -234,11 +234,11 @@ Feliciani 在受訪時提到，團隊原本認為日本的結果會「反轉」�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [行人群體動力學與集體行為研究](/?query=行人群體動力學)
-- [慣用手與大腦不對稱性](/?query=慣用手 大腦不對稱)
-- [群眾移動模式與空間設計應用](/?query=群眾移動 空間設計)
+- [行人群體動力學與集體行為研究](https://www.google.com/search?q=%E8%A1%8C%E4%BA%BA%E7%BE%A4%E9%AB%94%E5%8B%95%E5%8A%9B%E5%AD%B8)
+- [慣用手與大腦不對稱性](https://www.google.com/search?q=%E6%85%A3%E7%94%A8%E6%89%8B%20%E5%A4%A7%E8%85%A6%E4%B8%8D%E5%B0%8D%E7%A8%B1)
+- [群眾移動模式與空間設計應用](https://www.google.com/search?q=%E7%BE%A4%E7%9C%BE%E7%A7%BB%E5%8B%95%20%E7%A9%BA%E9%96%93%E8%A8%AD%E8%A8%88)
 
 ---
 

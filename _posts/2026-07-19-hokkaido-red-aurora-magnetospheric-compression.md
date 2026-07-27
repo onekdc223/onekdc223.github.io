@@ -335,12 +335,12 @@ CME 事件會把太陽表面一大團電漿噴射出去，這團電漿撞到地�
 
 ---
 
-## 📚 推薦閱讀
+## 延伸搜尋
 
-- [太陽風速度 vs 太陽風密度：磁暴預報的關鍵變數](/?query=太陽風密度+磁暴)
-- [公民科學如何改變太空天氣研究](/?query=公民科學+極光)
-- [Starlink 衛星墜落與大氣阻力的關聯](/?query=Starlink+大氣阻力+磁暴)
-- [SYM-H 與 ASYM-H 指數的差異解析](/?query=SYM-H+ASYM-H)
+- [太陽風密度 磁暴](https://www.google.com/search?q=%E5%A4%AA%E9%99%BD%E9%A2%A8%E5%AF%86%E5%BA%A6+%E7%A3%81%E6%9A%B4)
+- [公民科學如何改變太空天氣研究](https://www.google.com/search?q=%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%B8+%E6%A5%B5%E5%85%89)
+- [Starlink 衛星墜落與大氣阻力的關聯](https://www.google.com/search?q=Starlink+%E5%A4%A7%E6%B0%A3%E9%98%BB%E5%8A%9B+%E7%A3%81%E6%9A%B4)
+- [SYM-H 與 ASYM-H 指數的差異解析](https://www.google.com/search?q=SYM-H+ASYM-H)
 
 ---
 

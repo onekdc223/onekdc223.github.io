@@ -268,12 +268,12 @@ Liy 站起來，拿起找零放進口袋。
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [臉部吸引力與社會判斷：美貌溢價的認知根源](/?query=facial+attractiveness+social+judgment+halo+effect)
-- [眼動追蹤技術在認知科學中的應用](/?query=eye+tracking+cognitive+science+methodology)
-- [演化心理學與配偶選擇：我們如何評估基因適應度](/?query=evolutionary+psychology+mate+selection+facial+attractiveness)
-- [注意力的多重系統：從反射到意圖](/?query=overt+covert+attention+cognitive+neuroscience)
+- [臉部吸引力 月暈效應](https://www.google.com/search?q=facial+attractiveness+social+judgment+halo+effect)
+- [眼動追蹤技術在認知科學中的應用](https://www.google.com/search?q=eye+tracking+cognitive+science+methodology)
+- [演化心理學 配偶選擇](https://www.google.com/search?q=evolutionary+psychology+mate+selection+facial+attractiveness)
+- [外顯與內隱注意力](https://www.google.com/search?q=overt+covert+attention+cognitive+neuroscience)
 
 ---
 

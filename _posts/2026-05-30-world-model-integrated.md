@@ -244,12 +244,12 @@ IntPhys 2 測試模型偵測物理違規的能力，以呈現出現違反物理�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [JEPA 架構介紹](/?query=JEPA+joint+embedding+predictive+architecture)
-- [Yann LeCun 自主機器智慧論文](/?query=LeCun+autonomous+machine+intelligence+2022)
-- [可識別性理論與表示學習](/?query=identifiability+representation+learning)
-- [世界模型與強化學習](/?query=world+model+reinforcement+learning+robot)
+- [JEPA 架構介紹](https://www.google.com/search?q=JEPA+joint+embedding+predictive+architecture)
+- [Yann LeCun 自主機器智慧論文](https://www.google.com/search?q=LeCun+autonomous+machine+intelligence+2022)
+- [可識別性理論與表示學習](https://www.google.com/search?q=identifiability+representation+learning)
+- [世界模型與強化學習](https://www.google.com/search?q=world+model+reinforcement+learning+robot)
 
 ---
 
