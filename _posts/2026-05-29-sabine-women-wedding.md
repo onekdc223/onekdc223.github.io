@@ -249,12 +249,12 @@ Dg 盯著碗裡那根還沒夾起來的麵。
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [李維《羅馬史》第一卷導讀](/?query=李維+羅馬史+Ab+Urbe+Condita)
-- [古羅馬婚禮儀式完整流程](/?query=古羅馬+婚禮+deductio+儀式)
-- [印歐神話中的族群融合母題](/?query=Dumézil+印歐神話+族群融合)
-- [文藝復興繪畫中的薩賓婦女主題](/?query=Rape+of+the+Sabine+Women+繪畫)
+- [李維《羅馬史》第一卷導讀](https://www.google.com/search?q=%E6%9D%8E%E7%B6%AD+%E7%BE%85%E9%A6%AC%E5%8F%B2+Ab+Urbe+Condita)
+- [古羅馬婚禮儀式完整流程](https://www.google.com/search?q=%E5%8F%A4%E7%BE%85%E9%A6%AC+%E5%A9%9A%E7%A6%AE+deductio+%E5%84%80%E5%BC%8F)
+- [印歐神話中的族群融合母題](https://www.google.com/search?q=Dum%C3%A9zil+%E5%8D%B0%E6%AD%90%E7%A5%9E%E8%A9%B1+%E6%97%8F%E7%BE%A4%E8%9E%8D%E5%90%88)
+- [文藝復興繪畫中的薩賓婦女主題](https://www.google.com/search?q=Rape+of+the+Sabine+Women+%E7%B9%AA%E7%95%AB)
 
 ---
 

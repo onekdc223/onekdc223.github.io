@@ -225,12 +225,12 @@ DMN 與記憶、內省相關，其連結性下降常見於認知退化與阿茲�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [維生素C與認知功能的系統性回顧](/?query=維生素C+認知功能+系統性回顧)
-- [什麼是預設模式網路DMN](/?query=預設模式網路+DMN+大腦)
-- [如何判讀營養流行病學研究](/?query=營養流行病學+相關不等於因果)
-- [抗氧化物質與大腦老化](/?query=抗氧化+大腦老化+自由基)
+- [維生素C與認知功能的系統性回顧](https://www.google.com/search?q=%E7%B6%AD%E7%94%9F%E7%B4%A0C+%E8%AA%8D%E7%9F%A5%E5%8A%9F%E8%83%BD+%E7%B3%BB%E7%B5%B1%E6%80%A7%E5%9B%9E%E9%A1%A7)
+- [什麼是預設模式網路DMN](https://www.google.com/search?q=%E9%A0%90%E8%A8%AD%E6%A8%A1%E5%BC%8F%E7%B6%B2%E8%B7%AF+DMN+%E5%A4%A7%E8%85%A6)
+- [如何判讀營養流行病學研究](https://www.google.com/search?q=%E7%87%9F%E9%A4%8A%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%B8+%E7%9B%B8%E9%97%9C%E4%B8%8D%E7%AD%89%E6%96%BC%E5%9B%A0%E6%9E%9C)
+- [抗氧化物質與大腦老化](https://www.google.com/search?q=%E6%8A%97%E6%B0%A7%E5%8C%96+%E5%A4%A7%E8%85%A6%E8%80%81%E5%8C%96+%E8%87%AA%E7%94%B1%E5%9F%BA)
 
 ---
 

@@ -239,12 +239,12 @@ Martuza 說，這個研究計畫對他個人來說是一次啟示：「我的同
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [擲骰子典範與欺騙測量](/?query=die+rolling+paradigm+dishonesty+measurement)
-- [職場監控的心理學效應](/?query=workplace+surveillance+psychology+trust)
-- [社會信任與犬儒主義研究](/?query=social+trust+cynicism+psychology)
-- [行為經濟學中的誠實研究](/?query=behavioral+economics+honesty+experimental)
+- [擲骰子典範與欺騙測量](https://www.google.com/search?q=die+rolling+paradigm+dishonesty+measurement)
+- [職場監控的心理學效應](https://www.google.com/search?q=workplace+surveillance+psychology+trust)
+- [社會信任與犬儒主義研究](https://www.google.com/search?q=social+trust+cynicism+psychology)
+- [行為經濟學中的誠實研究](https://www.google.com/search?q=behavioral+economics+honesty+experimental)
 
 ---
 

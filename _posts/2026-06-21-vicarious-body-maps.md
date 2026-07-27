@@ -247,11 +247,11 @@ Knapen 認為，雖然維持好幾張重疊的地圖看起來有點浪費，但�
 
 這或許正是同理心的生理起點。當我們看見他人的痛，大腦並非冷眼旁觀，而是用自己的身體去模擬、去回應。對 Knapen 來說，比起任何技術應用，最大的收穫是更接近了一個古老的問題：人類的經驗，究竟是怎麼一回事。而這次，他們似乎找到了其中一塊關鍵的拼圖。
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [什麼是鏡像神經元？同理心的神經科學](/?query=鏡像神經元+同理心)
-- [大腦的感覺小人：潘菲爾德的經典發現](/?query=潘菲爾德+感覺小人+homunculus)
-- [具身認知與 AI：身體如何影響思考](/?query=具身認知+embodied+cognition+AI)
+- [鏡像神經元 同理心](https://www.google.com/search?q=%E9%8F%A1%E5%83%8F%E7%A5%9E%E7%B6%93%E5%85%83+%E5%90%8C%E7%90%86%E5%BF%83)
+- [潘菲爾德 感覺小人 homunculus](https://www.google.com/search?q=%E6%BD%98%E8%8F%B2%E7%88%BE%E5%BE%B7+%E6%84%9F%E8%A6%BA%E5%B0%8F%E4%BA%BA+homunculus)
+- [具身認知 embodied cognition AI](https://www.google.com/search?q=%E5%85%B7%E8%BA%AB%E8%AA%8D%E7%9F%A5+embodied+cognition+AI)
 
 ## 參考資料來源
 

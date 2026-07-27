@@ -329,12 +329,12 @@ GLP-1 藥物是近二十年來代謝醫學最重要的突破，這一點毋庸�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [GLP-1 藥物的神經機制](/?query=GLP-1+dopamine+reward+brain)
-- [Ozempic 與心理健康](/?query=semaglutide+mental+health+anhedonia)
-- [多巴胺 wanting vs liking](/?query=dopamine+wanting+liking+Berridge)
-- [矽谷文化與 Ozempic](/?query=Ozempic+personality+Silicon+Valley)
+- [GLP-1 藥物的神經機制](https://www.google.com/search?q=GLP-1+dopamine+reward+brain)
+- [Ozempic 與心理健康](https://www.google.com/search?q=semaglutide+mental+health+anhedonia)
+- [多巴胺 wanting vs liking](https://www.google.com/search?q=dopamine+wanting+liking+Berridge)
+- [矽谷文化與 Ozempic](https://www.google.com/search?q=Ozempic+personality+Silicon+Valley)
 
 ---
 

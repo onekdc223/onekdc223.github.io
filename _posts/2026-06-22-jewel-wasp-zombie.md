@@ -255,12 +255,12 @@ A：牠提供了一個天然的研究模型，幫科學家理解大腦如何控�
 
 ---
 
-## 📚 推薦閱讀
+## 延伸搜尋
 
-- [寄生生物如何操縱宿主的認知功能](/?query=寄生蟲+宿主行為操縱)
-- [章魚胺與昆蟲的行為動機調控](/?query=章魚胺+昆蟲+行為)
-- [冬蟲夏草真菌的螞蟻登頂病](/?query=Ophiocordyceps+螞蟻+登頂病)
-- [神經傳導物質多巴胺的真實角色](/?query=多巴胺+神經傳導+迷思)
+- [寄生生物如何操縱宿主的認知功能](https://www.google.com/search?q=%E5%AF%84%E7%94%9F%E8%9F%B2+%E5%AE%BF%E4%B8%BB%E8%A1%8C%E7%82%BA%E6%93%8D%E7%B8%B1)
+- [章魚胺與昆蟲的行為動機調控](https://www.google.com/search?q=%E7%AB%A0%E9%AD%9A%E8%83%BA+%E6%98%86%E8%9F%B2+%E8%A1%8C%E7%82%BA)
+- [冬蟲夏草真菌的螞蟻登頂病](https://www.google.com/search?q=Ophiocordyceps+%E8%9E%9E%E8%9F%BB+%E7%99%BB%E9%A0%82%E7%97%85)
+- [神經傳導物質多巴胺的真實角色](https://www.google.com/search?q=%E5%A4%9A%E5%B7%B4%E8%83%BA+%E7%A5%9E%E7%B6%93%E5%82%B3%E5%B0%8E+%E8%BF%B7%E6%80%9D)
 
 ---
 

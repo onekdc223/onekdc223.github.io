@@ -256,12 +256,12 @@ K 張口想糾正,又停住。
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [親職投資理論是什麼](/?query=親職投資理論+Trivers)
-- [Trivers-Willard 假說的爭議](/?query=Trivers-Willard+假說+爭議)
-- [什麼是 WEIRD 樣本問題](/?query=WEIRD+樣本+心理學)
-- [演化心理學的可否證性爭論](/?query=演化心理學+可否證性)
+- [親職投資理論是什麼](https://www.google.com/search?q=%E8%A6%AA%E8%81%B7%E6%8A%95%E8%B3%87%E7%90%86%E8%AB%96+Trivers)
+- [Trivers-Willard 假說的爭議](https://www.google.com/search?q=Trivers-Willard+%E5%81%87%E8%AA%AA+%E7%88%AD%E8%AD%B0)
+- [什麼是 WEIRD 樣本問題](https://www.google.com/search?q=WEIRD+%E6%A8%A3%E6%9C%AC+%E5%BF%83%E7%90%86%E5%AD%B8)
+- [演化心理學的可否證性爭論](https://www.google.com/search?q=%E6%BC%94%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%B8+%E5%8F%AF%E5%90%A6%E8%AD%89%E6%80%A7)
 
 ---
 

@@ -283,12 +283,12 @@ Gottman 的研究之所以持續被引用，不是因為它宣稱找到了愛情
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [Gottman 方法伴侶治療的實證研究](/?query=Gottman+method+couple+therapy)
-- [四騎士：預測離婚的四種溝通模式](/?query=四騎士+批評+蔑視+防禦+築牆)
-- [Sound Relationship House 理論架構](/?query=Sound+Relationship+House)
-- [伴侶治療中的修復嘗試（Repair Attempts）](/?query=repair+attempts+couples+therapy)
+- [Gottman 方法伴侶治療的實證研究](https://www.google.com/search?q=Gottman+method+couple+therapy)
+- [四騎士 批評 蔑視 防禦 築牆](https://www.google.com/search?q=%E5%9B%9B%E9%A8%8E%E5%A3%AB+%E6%89%B9%E8%A9%95+%E8%94%91%E8%A6%96+%E9%98%B2%E7%A6%A6+%E7%AF%89%E7%89%86)
+- [Sound Relationship House 理論架構](https://www.google.com/search?q=Sound+Relationship+House)
+- [修復嘗試 伴侶治療](https://www.google.com/search?q=repair+attempts+couples+therapy)
 
 ---
 

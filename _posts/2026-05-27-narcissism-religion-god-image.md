@@ -297,12 +297,12 @@ Tokarz 等人的研究給出了一個非常清晰的訊息：**自戀者和宗�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [什麼是「外在宗教動機」？](/?query=外在宗教動機+心理學)
-- [自戀的四個面向：能動、對立、神經質、共同體](/?query=自戀人格類型+三因素模型)
-- [宗教因應風格與心理健康](/?query=宗教因應+正向負向+心理健康)
-- [共同體型自戀：善良外表下的自我中心](/?query=communal+narcissism+共同體型自戀)
+- [外在宗教動機 心理學](https://www.google.com/search?q=%E5%A4%96%E5%9C%A8%E5%AE%97%E6%95%99%E5%8B%95%E6%A9%9F+%E5%BF%83%E7%90%86%E5%AD%B8)
+- [自戀人格類型 三因素模型](https://www.google.com/search?q=%E8%87%AA%E6%88%80%E4%BA%BA%E6%A0%BC%E9%A1%9E%E5%9E%8B+%E4%B8%89%E5%9B%A0%E7%B4%A0%E6%A8%A1%E5%9E%8B)
+- [宗教因應風格與心理健康](https://www.google.com/search?q=%E5%AE%97%E6%95%99%E5%9B%A0%E6%87%89+%E6%AD%A3%E5%90%91%E8%B2%A0%E5%90%91+%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
+- [communal narcissism 共同體型自戀](https://www.google.com/search?q=communal+narcissism+%E5%85%B1%E5%90%8C%E9%AB%94%E5%9E%8B%E8%87%AA%E6%88%80)
 
 ---
 

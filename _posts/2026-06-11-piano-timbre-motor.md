@@ -284,12 +284,12 @@ Kuromiya 等人（2025）這篇研究的貢獻，不只是替一個百年爭論�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [鋼琴觸鍵與音色感知研究](/?query=piano+touch+timbre+perception)
-- [音樂演奏的神經科學](/?query=neuroscience+music+performance+motor+control)
-- [感覺運動整合與音樂家大腦](/?query=sensorimotor+integration+musicians+brain)
-- [HackKey 感測器技術](/?query=HackKey+piano+sensor+high+speed)
+- [鋼琴觸鍵與音色感知研究](https://www.google.com/search?q=piano+touch+timbre+perception)
+- [音樂演奏的神經科學](https://www.google.com/search?q=neuroscience+music+performance+motor+control)
+- [感覺運動整合與音樂家大腦](https://www.google.com/search?q=sensorimotor+integration+musicians+brain)
+- [HackKey 感測器技術](https://www.google.com/search?q=HackKey+piano+sensor+high+speed)
 
 ---
 

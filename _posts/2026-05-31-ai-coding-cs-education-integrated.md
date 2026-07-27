@@ -368,13 +368,13 @@ Chegg 的故事不能直接類比整個大學教育——大學的核心主張�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [AI 程式工具的真實成本與企業導入困境](/?query=AI+程式工具+企業導入+成本)
-- [ICPC 競賽與 AI 解題能力的意義](/?query=ICPC+AI+解題+程式競賽)
-- [生成式 AI 如何衝擊教育科技產業](/?query=生成式AI+教育科技+衝擊)
-- [軟體開發生產力為什麼難以衡量](/?query=軟體開發+生產力+衡量)
-- [資安以攻代守的訓練模式](/?query=資安+滲透測試+以攻代守+訓練)
+- [AI 程式工具的真實成本與企業導入困境](https://www.google.com/search?q=AI+%E7%A8%8B%E5%BC%8F%E5%B7%A5%E5%85%B7+%E4%BC%81%E6%A5%AD%E5%B0%8E%E5%85%A5+%E6%88%90%E6%9C%AC)
+- [ICPC 競賽與 AI 解題能力的意義](https://www.google.com/search?q=ICPC+AI+%E8%A7%A3%E9%A1%8C+%E7%A8%8B%E5%BC%8F%E7%AB%B6%E8%B3%BD)
+- [生成式 AI 如何衝擊教育科技產業](https://www.google.com/search?q=%E7%94%9F%E6%88%90%E5%BC%8FAI+%E6%95%99%E8%82%B2%E7%A7%91%E6%8A%80+%E8%A1%9D%E6%93%8A)
+- [軟體開發生產力為什麼難以衡量](https://www.google.com/search?q=%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC+%E7%94%9F%E7%94%A2%E5%8A%9B+%E8%A1%A1%E9%87%8F)
+- [資安以攻代守的訓練模式](https://www.google.com/search?q=%E8%B3%87%E5%AE%89+%E6%BB%B2%E9%80%8F%E6%B8%AC%E8%A9%A6+%E4%BB%A5%E6%94%BB%E4%BB%A3%E5%AE%88+%E8%A8%93%E7%B7%B4)
 
 ---
 

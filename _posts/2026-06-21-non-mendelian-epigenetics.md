@@ -265,12 +265,12 @@ Dg 沒有再搬名言出來。他低著頭，手指在桌上慢慢敲。
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [什麼是表觀遺傳學？入門指南](/?query=表觀遺傳學入門)
-- [孟德爾遺傳法則完整解析](/?query=孟德爾遺傳法則)
-- [DNA 甲基化與基因開關](/?query=DNA甲基化)
-- [基因體印記是什麼](/?query=基因體印記)
+- [表觀遺傳學入門](https://www.google.com/search?q=%E8%A1%A8%E8%A7%80%E9%81%BA%E5%82%B3%E5%AD%B8%E5%85%A5%E9%96%80)
+- [孟德爾遺傳法則完整解析](https://www.google.com/search?q=%E5%AD%9F%E5%BE%B7%E7%88%BE%E9%81%BA%E5%82%B3%E6%B3%95%E5%89%87)
+- [DNA 甲基化與基因開關](https://www.google.com/search?q=DNA%E7%94%B2%E5%9F%BA%E5%8C%96)
+- [基因體印記是什麼](https://www.google.com/search?q=%E5%9F%BA%E5%9B%A0%E9%AB%94%E5%8D%B0%E8%A8%98)
 
 ---
 

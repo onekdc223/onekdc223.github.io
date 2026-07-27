@@ -291,12 +291,12 @@ Kanavakis 說得很清楚：「我們的最終目標不是創造一個單一的�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [臉部吸引力與演化心理學](/?query=facial+attractiveness+evolutionary+psychology)
-- [三維臉部掃描與幾何形態測量技術](/?query=3D+facial+scanning+geometric+morphometrics)
-- [自我感知吸引力與自尊的心理學](/?query=self-perceived+attractiveness+self-esteem+psychology)
-- [正畸治療與臉部美學](/?query=orthodontic+treatment+facial+aesthetics)
+- [臉部吸引力與演化心理學](https://www.google.com/search?q=facial+attractiveness+evolutionary+psychology)
+- [三維臉部掃描與幾何形態測量技術](https://www.google.com/search?q=3D+facial+scanning+geometric+morphometrics)
+- [自我感知吸引力與自尊的心理學](https://www.google.com/search?q=self-perceived+attractiveness+self-esteem+psychology)
+- [正畸治療與臉部美學](https://www.google.com/search?q=orthodontic+treatment+facial+aesthetics)
 
 ---
 

@@ -277,11 +277,11 @@ DECAF 試驗尤其值得記住——它示範了隨機對照試驗如何在一�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [咖啡因代謝的基因差異：為什麼有人喝咖啡睡不著](/?query=CYP1A2+咖啡因+代謝+基因)
-- [觀察性研究 vs 隨機對照試驗：如何判讀健康新聞](/?query=觀察性研究+隨機對照試驗+差異)
-- [咖啡醇與膽固醇：沖煮方式如何影響健康](/?query=咖啡醇+cafestol+膽固醇+沖煮)
+- [CYP1A2 咖啡因 代謝 基因](https://www.google.com/search?q=CYP1A2+%E5%92%96%E5%95%A1%E5%9B%A0+%E4%BB%A3%E8%AC%9D+%E5%9F%BA%E5%9B%A0)
+- [觀察性研究 隨機對照試驗 差異](https://www.google.com/search?q=%E8%A7%80%E5%AF%9F%E6%80%A7%E7%A0%94%E7%A9%B6+%E9%9A%A8%E6%A9%9F%E5%B0%8D%E7%85%A7%E8%A9%A6%E9%A9%97+%E5%B7%AE%E7%95%B0)
+- [咖啡醇 cafestol 膽固醇 沖煮](https://www.google.com/search?q=%E5%92%96%E5%95%A1%E9%86%87+cafestol+%E8%86%BD%E5%9B%BA%E9%86%87+%E6%B2%96%E7%85%AE)
 
 ---
 

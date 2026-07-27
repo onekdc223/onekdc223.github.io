@@ -289,12 +289,12 @@ EVI1（MECOM）是一個在胚胎發育中扮演多重角色的轉錄因子。�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [指紋遺傳學 NIH 官方說明](/?query=指紋+遺傳+MedlinePlus)
-- [反應擴散與圖靈形態發生](/?query=Turing+reaction-diffusion+pattern+formation)
-- [同卵雙胞胎生物辨識研究](/?query=identical+twins+fingerprint+AFIS+biometrics)
-- [EVI1/MECOM 基因與肢體發育](/?query=EVI1+MECOM+limb+development+leukemia)
+- [指紋遺傳學 NIH 官方說明](https://www.google.com/search?q=%E6%8C%87%E7%B4%8B+%E9%81%BA%E5%82%B3+MedlinePlus)
+- [反應擴散與圖靈形態發生](https://www.google.com/search?q=Turing+reaction-diffusion+pattern+formation)
+- [同卵雙胞胎生物辨識研究](https://www.google.com/search?q=identical+twins+fingerprint+AFIS+biometrics)
+- [EVI1/MECOM 基因與肢體發育](https://www.google.com/search?q=EVI1+MECOM+limb+development+leukemia)
 
 ---
 

@@ -326,12 +326,12 @@ Gonalons-Pons 與 Dunatchik 的研究還有一個值得注意的發現：**1980 
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [跨國研究如何被解讀？──社會科學的可複製性問題](/?query=社會科學+可複製性)
-- [性別規範壓力的心理學：內化與抵抗](/?query=性別規範+內化)
-- [家務分工與關係滿意度：另一個被低估的變項](/?query=家務分工+關係滿意度)
-- [演化心理學的限度：為什麼不能什麼都用演化解釋](/?query=演化心理學+限度)
+- [社會科學 可複製性](https://www.google.com/search?q=%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8+%E5%8F%AF%E8%A4%87%E8%A3%BD%E6%80%A7)
+- [性別規範 內化](https://www.google.com/search?q=%E6%80%A7%E5%88%A5%E8%A6%8F%E7%AF%84+%E5%85%A7%E5%8C%96)
+- [家務分工 關係滿意度](https://www.google.com/search?q=%E5%AE%B6%E5%8B%99%E5%88%86%E5%B7%A5+%E9%97%9C%E4%BF%82%E6%BB%BF%E6%84%8F%E5%BA%A6)
+- [演化心理學 限度](https://www.google.com/search?q=%E6%BC%94%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%B8+%E9%99%90%E5%BA%A6)
 
 ---
 

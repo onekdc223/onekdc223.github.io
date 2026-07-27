@@ -293,12 +293,12 @@ WashU 的核心實驗使用斑馬魚模型，且採用高濃度的山梨糖醇�
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [果糖與脂肪肝的機制](/?query=fructose+MASLD+mechanism)
-- [腸道菌相與代謝疾病](/?query=gut+microbiome+metabolic+disease)
-- [代糖的健康風險全面評估](/?query=artificial+sweeteners+health+risk)
-- [MASLD 的診斷與預防](/?query=MASLD+diagnosis+prevention)
+- [果糖與脂肪肝的機制](https://www.google.com/search?q=fructose+MASLD+mechanism)
+- [腸道菌相與代謝疾病](https://www.google.com/search?q=gut+microbiome+metabolic+disease)
+- [代糖的健康風險全面評估](https://www.google.com/search?q=artificial+sweeteners+health+risk)
+- [MASLD 的診斷與預防](https://www.google.com/search?q=MASLD+diagnosis+prevention)
 
 ---
 
