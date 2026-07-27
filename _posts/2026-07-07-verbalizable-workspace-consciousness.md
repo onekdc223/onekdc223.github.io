@@ -253,12 +253,12 @@ K 看了他一眼。「嗯。」
 
 ---
 
-## 📚 推薦閱讀
+## 延伸搜尋
 
-- [全局工作區理論是什麼](/?query=全局工作區理論+意識)
-- [白熊效應與思想抑制](/?query=白熊效應+心理學)
-- [AI 可解釋性研究入門](/?query=AI+可解釋性+機制解釋)
-- [語言模型會有意識嗎](/?query=大型語言模型+意識+哲學)
+- [全局工作區理論是什麼](https://www.google.com/search?q=%E5%85%A8%E5%B1%80%E5%B7%A5%E4%BD%9C%E5%8D%80%E7%90%86%E8%AB%96+%E6%84%8F%E8%AD%98)
+- [白熊效應與思想抑制](https://www.google.com/search?q=%E7%99%BD%E7%86%8A%E6%95%88%E6%87%89+%E5%BF%83%E7%90%86%E5%AD%B8)
+- [AI 可解釋性研究入門](https://www.google.com/search?q=AI+%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7+%E6%A9%9F%E5%88%B6%E8%A7%A3%E9%87%8B)
+- [語言模型會有意識嗎](https://www.google.com/search?q=%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B+%E6%84%8F%E8%AD%98+%E5%93%B2%E5%AD%B8)
 
 ---
 
