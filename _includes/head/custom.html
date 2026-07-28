@@ -203,4 +203,125 @@
   })();
 </script>
 
+<!-- collapsible TOC(<1024px 側欄落入正文流時預設收起)+ 回到頂部浮動鈕 -->
+<style>
+  /* 窄螢幕(側欄變內嵌)時,把目錄做成可點收合;預設收起 */
+  @media (max-width: 1023px) {
+    nav.toc header { position: relative; cursor: pointer; }
+    nav.toc header .nav__title { padding-inline-end: 2.2em; }
+    nav.toc header::after {
+      content: "\25BE"; /* ▾ */
+      position: absolute;
+      inset-inline-end: 0.9em;
+      top: 50%;
+      transform: translateY(-50%);
+      transition: transform 0.2s ease;
+      pointer-events: none;
+      opacity: 0.8;
+    }
+    nav.toc.is-collapsed header::after { transform: translateY(-50%) rotate(-90deg); }
+    nav.toc.is-collapsed .toc__menu { display: none; }
+  }
+
+  /* 回到頂部浮動鈕 */
+  .to-top-fab {
+    position: fixed;
+    inset-inline-end: 1rem;
+    bottom: 1rem;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: #00adb5;
+    color: #fff;
+    font-size: 1.35rem;
+    line-height: 2.75rem;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+    z-index: 900;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  }
+  .to-top-fab.is-visible { opacity: 0.9; visibility: visible; transform: none; }
+  .to-top-fab:hover,
+  .to-top-fab:focus-visible { opacity: 1; }
+  @media print { .to-top-fab { display: none; } }
+</style>
+<script>
+  (function () {
+    // ---- 可收合目錄(<1024px)----
+    (function () {
+      var mq = window.matchMedia("(max-width: 1023px)");
+      var entries = [];
+      function wire() {
+        document.querySelectorAll("nav.toc").forEach(function (toc) {
+          var header = toc.querySelector("header");
+          var title = toc.querySelector(".nav__title");
+          if (!header || !title || toc._tocWired) return;
+          toc._tocWired = true;
+          function toggle() {
+            var collapsed = toc.classList.toggle("is-collapsed");
+            title.setAttribute("aria-expanded", String(!collapsed));
+          }
+          header.addEventListener("click", function () { if (mq.matches) toggle(); });
+          title.addEventListener("keydown", function (e) {
+            if (mq.matches && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); toggle(); }
+          });
+          entries.push({ toc: toc, title: title });
+        });
+      }
+      function apply() {
+        entries.forEach(function (o) {
+          if (mq.matches) {
+            o.toc.classList.add("is-collapsed"); // 預設收起
+            o.title.setAttribute("role", "button");
+            o.title.setAttribute("tabindex", "0");
+            o.title.setAttribute("aria-expanded", "false");
+          } else {
+            o.toc.classList.remove("is-collapsed"); // 桌機側欄永遠展開
+            o.title.removeAttribute("role");
+            o.title.removeAttribute("tabindex");
+            o.title.removeAttribute("aria-expanded");
+          }
+        });
+      }
+      function init() { wire(); apply(); }
+      if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+      else init();
+      mq.addEventListener ? mq.addEventListener("change", apply) : mq.addListener(apply);
+    })();
+
+    // ---- 回到頂部 ----
+    (function () {
+      function init() {
+        var btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "to-top-fab";
+        btn.setAttribute("aria-label", "回到頂部");
+        btn.innerHTML = "↑"; // ↑
+        document.body.appendChild(btn);
+        var ticking = false;
+        function update() {
+          ticking = false;
+          btn.classList.toggle("is-visible", window.pageYOffset > 400);
+        }
+        window.addEventListener("scroll", function () {
+          if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+        }, { passive: true });
+        btn.addEventListener("click", function () {
+          var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+          window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+        });
+        update();
+      }
+      if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+      else init();
+    })();
+  })();
+</script>
+
 <!-- end custom head snippets -->
