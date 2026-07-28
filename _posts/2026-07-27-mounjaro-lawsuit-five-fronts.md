@@ -390,12 +390,12 @@ Cala 沉默了一會。
 
 ---
 
-## 推薦閱讀
+## 延伸搜尋
 
-- [GLP-1 藥物的作用機轉：它到底怎麼讓人變瘦？](/?query=GLP-1+作用機轉)
-- [什麼是胃輕癱？從生理機制到臨床診斷](/?query=胃輕癱+gastroparesis)
-- [美國 MDL 制度入門：跟集體訴訟差在哪？](/?query=MDL+多地區訴訟)
-- [藥品仿單怎麼讀？警語、禁忌與不良反應的層級](/?query=藥品仿單+閱讀)
+- [GLP-1 作用機轉](https://www.google.com/search?q=GLP-1+%E4%BD%9C%E7%94%A8%E6%A9%9F%E8%BD%89)
+- [胃輕癱 gastroparesis](https://www.google.com/search?q=%E8%83%83%E8%BC%95%E7%99%B1+gastroparesis)
+- [MDL 多地區訴訟](https://www.google.com/search?q=MDL+%E5%A4%9A%E5%9C%B0%E5%8D%80%E8%A8%B4%E8%A8%9F)
+- [藥品仿單 閱讀](https://www.google.com/search?q=%E8%97%A5%E5%93%81%E4%BB%BF%E5%96%AE+%E9%96%B1%E8%AE%80)
 
 ---
 
