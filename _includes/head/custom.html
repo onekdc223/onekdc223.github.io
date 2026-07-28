@@ -164,4 +164,43 @@
   })();
 </script>
 
+<!-- mobile nav: 手機(<768px)時把所有導覽項目都收進漢堡,避免與長中文站名重疊 -->
+<script>
+  (function () {
+    var MOBILE_MAX = 767; // 與 greedy-nav 的 <768 手機斷點一致
+    var vlinks, hlinks, toggle;
+    function collapse() {
+      if (!vlinks) return;
+      if (window.innerWidth <= MOBILE_MAX && vlinks.children.length) {
+        // 把仍可見的項目依原順序移到漢堡最前面
+        var items = Array.prototype.slice.call(vlinks.children);
+        for (var i = items.length - 1; i >= 0; i--) {
+          hlinks.insertBefore(items[i], hlinks.firstChild);
+        }
+        toggle.classList.remove("hidden");
+        toggle.setAttribute("count", hlinks.children.length);
+      }
+    }
+    function init() {
+      var nav = document.querySelector("nav.greedy-nav");
+      if (!nav) return;
+      vlinks = nav.querySelector(".visible-links");
+      hlinks = nav.querySelector(".hidden-links");
+      toggle = nav.querySelector(".greedy-nav__toggle");
+      if (!vlinks || !hlinks || !toggle) return;
+      collapse();
+      // greedy-nav 會在字型載入/resize 後把項目移回可見區;用 observer 確保手機下持續收合
+      new MutationObserver(collapse).observe(vlinks, { childList: true });
+      window.addEventListener("resize", function () {
+        window.requestAnimationFrame(collapse);
+      });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>
+
 <!-- end custom head snippets -->
