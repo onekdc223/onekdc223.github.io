@@ -90,4 +90,78 @@
   })();
 </script>
 
+<!-- reading progress bar: fills as the reader scrolls through the article body -->
+<style>
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    z-index: 9999;
+    background: transparent;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+  .reading-progress.is-active { opacity: 1; }
+  .reading-progress__bar {
+    height: 100%;
+    width: 100%;
+    transform: scaleX(0);
+    transform-origin: left center;
+    background: linear-gradient(90deg, #00adb5, #00d4de);
+    will-change: transform;
+  }
+  @media print { .reading-progress { display: none; } }
+</style>
+<script>
+  (function () {
+    function ready(fn) {
+      if (document.readyState !== "loading") fn();
+      else document.addEventListener("DOMContentLoaded", fn);
+    }
+    ready(function () {
+      // 只在文章頁(single 版型才有的 .e-content 內文區)啟用
+      var content = document.querySelector(".page__content.e-content");
+      if (!content) return;
+
+      var wrap = document.createElement("div");
+      wrap.className = "reading-progress";
+      wrap.setAttribute("aria-hidden", "true");
+      var bar = document.createElement("div");
+      bar.className = "reading-progress__bar";
+      wrap.appendChild(bar);
+      document.body.appendChild(wrap);
+
+      var ticking = false;
+      function update() {
+        ticking = false;
+        var winH = window.innerHeight || document.documentElement.clientHeight;
+        var rect = content.getBoundingClientRect();
+        var total = rect.height - winH;
+        // 內文比視窗短、無需捲動時,不顯示進度條
+        if (total <= 0) {
+          wrap.classList.remove("is-active");
+          return;
+        }
+        wrap.classList.add("is-active");
+        var p = -rect.top / total;
+        if (p < 0) p = 0;
+        else if (p > 1) p = 1;
+        bar.style.transform = "scaleX(" + p + ")";
+      }
+      function onScroll() {
+        if (!ticking) {
+          ticking = true;
+          window.requestAnimationFrame(update);
+        }
+      }
+      window.addEventListener("scroll", onScroll, { passive: true });
+      window.addEventListener("resize", onScroll, { passive: true });
+      update();
+    });
+  })();
+</script>
+
 <!-- end custom head snippets -->
