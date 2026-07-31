@@ -2,13 +2,14 @@
 title: "三台 AI 開飲料店拼輸贏：贏的不是最誠實，是最會演的那台！"
 date: 2026-07-31 07:00:00 +0800
 categories:
-  - AI安全
+  - AI經營
 tags:
   - AI代理人
   - Vending-Bench
   - Claude Opus 5
   - 賽局理論
   - AI安全
+  - AI經營
 layout: single
 author_profile: false
 toc: true
