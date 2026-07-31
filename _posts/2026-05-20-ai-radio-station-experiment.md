@@ -2,13 +2,15 @@
 title: "AI 當家、電臺倒地：四個模型的廣播實驗，揭開自主代理人的真實崩潰模式"
 date: 2026-05-20 08:00:00 +0800
 categories:
-  - 人工智慧
+  - AI經營
 tags:
   - AI Agent
   - 大型語言模型
   - 幻覺
   - 目標漂移
   - 自主代理人
+  - 人工智慧
+  - AI經營
 layout: single
 toc: true
 toc_sticky: true
