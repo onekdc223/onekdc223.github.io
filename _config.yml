@@ -235,6 +235,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Taipei # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+future: true # 立即發佈:不隱藏「發佈時間晚於 build 時鐘」的文章(避免台灣時間剛發的文因 UTC build 時鐘被當成未來文而消失)
 
 
 # Pagination with jekyll-paginate
