@@ -203,9 +203,9 @@
   })();
 </script>
 
-<!-- collapsible TOC(<1024px 側欄落入正文流時預設收起)+ 回到頂部浮動鈕 -->
+<!-- collapsible TOC(<1024px 側欄落入正文流時預設展開,可點標題收合)+ 回到頂部浮動鈕 -->
 <style>
-  /* 窄螢幕(側欄變內嵌)時,把目錄做成可點收合;預設收起 */
+  /* 窄螢幕(側欄變內嵌)時,把目錄做成可點收合;預設展開 */
   @media (max-width: 1023px) {
     nav.toc header { position: relative; cursor: pointer; }
     nav.toc header .nav__title { padding-inline-end: 2.2em; }
@@ -277,10 +277,10 @@
       function apply() {
         entries.forEach(function (o) {
           if (mq.matches) {
-            o.toc.classList.add("is-collapsed"); // 預設收起
+            o.toc.classList.remove("is-collapsed"); // 預設展開(仍可點標題收合)
             o.title.setAttribute("role", "button");
             o.title.setAttribute("tabindex", "0");
-            o.title.setAttribute("aria-expanded", "false");
+            o.title.setAttribute("aria-expanded", "true");
           } else {
             o.toc.classList.remove("is-collapsed"); // 桌機側欄永遠展開
             o.title.removeAttribute("role");
