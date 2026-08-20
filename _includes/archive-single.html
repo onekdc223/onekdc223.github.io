@@ -17,7 +17,7 @@
       {% assign teaser_base = teaser | split: "/" | last | split: "." | first %}
       {% capture teaser_thumb %}/assets/images/thumbs/{{ teaser_base }}.webp{% endcapture %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser_thumb | relative_url }}" alt="" width="800" height="447" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='{{ teaser | relative_url }}';">
+        <img src="{{ teaser_thumb | relative_url }}" alt="" width="800" height="447" loading="lazy" decoding="async" onerror="if(this.dataset.fb){this.onerror=null;this.src='{{ site.teaser | relative_url }}';}else{this.dataset.fb=1;this.src='{{ teaser | relative_url }}';}">
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc p-name" itemprop="headline">
