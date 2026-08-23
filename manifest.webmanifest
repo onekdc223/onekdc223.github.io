@@ -1,0 +1,15 @@
+{
+  "name": "收集資料的K",
+  "short_name": "收集資料的K",
+  "description": "AI、意識研究、腦科學與健康新知的繁體中文閱讀筆記。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#252a34",
+  "theme_color": "#252a34",
+  "icons": [
+    { "src": "/assets/images/android-chrome-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/images/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/images/android-chrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
