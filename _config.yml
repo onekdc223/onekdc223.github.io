@@ -26,7 +26,7 @@ url                      : "https://onekdc223.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/default-teaser.png" # 缺圖時的預設 teaser(品牌 placeholder)
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # 個人識別標誌(masthead 站名旁)
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 400
@@ -95,8 +95,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
-og_image_alt             : # Alt text for Open Graph/Twitter default site image
+og_image                 : "/assets/images/og-default.png" # 分享連結預設縮圖(1200x630 品牌圖)
+og_image_alt             : "收集資料的K 網站標誌" # Alt text for Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
