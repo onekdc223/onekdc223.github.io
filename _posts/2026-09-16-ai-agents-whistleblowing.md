@@ -2,11 +2,11 @@
 title: "AI 幫 AI 抓包：當人工智慧學會互相檢舉，科學界要怎麼辦？"
 date: 2026-09-16 20:10:26 +0800
 categories:
-  - AI 安全
+  - AI安全
 tags:
   - AI agent
   - 多智能體系統
-  - AI 安全
+  - AI安全
   - 吹哨者
   - Google DeepMind
   - Specification Gaming
