@@ -12,6 +12,8 @@ layout: single
 author_profile: false
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/2026-09-15-power-vs-gender-differences.png
 excerpt: "哥倫比亞大學團隊比對270篇權力實驗與102個性別差異統合分析，發現71%的性別差異方向與權力效應一致，暗示許多性別差異可能是權力差異假扮的。"
 ---
 
