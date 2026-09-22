@@ -12,6 +12,8 @@ layout: single
 author_profile: false
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/2026-09-16-bmi-adiposity-rebound-fat-free-mass.png
 excerpt: "1984 年提出的「脂肪反彈」理論被 2026 年新研究挑戰：兒童 6 歲後 BMI 上升,可能不是脂肪反彈,而是肌肉與骨骼在正常生長。"
 ---
 
