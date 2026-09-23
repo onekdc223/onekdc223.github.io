@@ -14,7 +14,30 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # 防呆:只部署 master 最新的 commit。
+  # 同一個舊 commit 可能被再次推送(或排隊較晚)而最後才跑完,把較新的版本蓋掉;
+  # 這裡先比對本次 run 的 SHA 與 master 目前的 tip,不是最新就跳過建置與部署。
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      latest: ${{ steps.tip.outputs.latest }}
+    steps:
+      - name: Only deploy the latest master commit
+        id: tip
+        run: |
+          TIP=$(git ls-remote "https://github.com/${{ github.repository }}.git" refs/heads/master | cut -f1)
+          echo "run sha: $GITHUB_SHA"
+          echo "master : $TIP"
+          if [ "$GITHUB_SHA" = "$TIP" ]; then
+            echo "latest=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "latest=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::略過部署:此 run 的 commit 不是 master 最新版本"
+          fi
+
   build:
+    needs: check
+    if: needs.check.outputs.latest == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -57,6 +80,19 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # 建置期間若 master 又有新 commit,就交給新的 run 部署,避免舊版後發先至
+      - name: Re-check latest before deploy
+        id: tip
+        run: |
+          TIP=$(git ls-remote "https://github.com/${{ github.repository }}.git" refs/heads/master | cut -f1)
+          if [ "$GITHUB_SHA" = "$TIP" ]; then
+            echo "latest=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "latest=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::略過部署:建置期間 master 已有更新的 commit"
+          fi
+
       - name: Deploy to GitHub Pages
         id: deployment
+        if: steps.tip.outputs.latest == 'true'
         uses: actions/deploy-pages@v4
